@@ -1,6 +1,6 @@
 # 🇬🇧 English B1 → C1 in 6 Months
 
-**Start:** 21 Nov 2026 · **End:** 21 May 2027 · **Daily session:** 8:00–9:30 PM (Google Calendar) · **Time:** 90 min/day, 6 days/week (Sat–Thu) (≈ 230 hours)
+**Start:** 22 Nov 2026 · **End:** 22 May 2027 · **Daily session:** 8:00–9:30 PM (Google Calendar) · **Time:** 90 min/day, 6 days/week (Sun–Fri) (≈ 230 hours)
 
 > Honest note: B1 → C1 normally takes 400–600 hours. 6 months is possible only with daily work **plus** a lot of free English (movies, YouTube, podcasts) in your free time. Aim for C1 in reading/listening and a strong B2+/C1 in speaking/writing.
 
@@ -40,7 +40,7 @@
 | 10 | Anki review |
 
 **Free time:** extra episodes, YouTube in English, change phone language to English.
-**Friday:** rest — or just watch something fun.
+**Saturday:** rest — or just watch something fun.
 
 ---
 
@@ -58,13 +58,13 @@
 
 | Month | Date | Cambridge online test | Claude speaking band | Claude writing band | Anki words | Notes |
 |---|---|---|---|---|---|---|
-| 0 (start) | 21 Nov 2026 | 16/25 (→ "prepare for B1 Preliminary") | | | 0 | |
-| 1 | 19 Dec 2026 | | | | | |
-| 2 | 16 Jan 2027 | | | | | |
-| 3 | 20 Feb 2027 | | | | | |
-| 4 | 20 Mar 2027 | | | | | |
-| 5 | 24 Apr 2027 | | | | | |
-| 6 | 21 May 2027 | | | | | |
+| 0 (start) | 22 Nov 2026 | 16/25 (→ "prepare for B1 Preliminary") | | | 0 | |
+| 1 | 20 Dec 2026 | | | | | |
+| 2 | 17 Jan 2027 | | | | | |
+| 3 | 21 Feb 2027 | | | | | |
+| 4 | 21 Mar 2027 | | | | | |
+| 5 | 25 Apr 2027 | | | | | |
+| 6 | 22 May 2027 | | | | | |
 
 ## ❌ My repeated mistakes
 - 
@@ -76,7 +76,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 
 ## Phase 1 — Foundations (B1 → B2)
 
-### Week 1 — starts 21 Nov 2026
+### Week 1 — starts 22 Nov 2026
 📋 **Day-by-day details: [weeks/week-01.md](weeks/week-01.md)**
 
 - [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
@@ -87,9 +87,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 2 — starts 28 Nov 2026
+### Week 2 — starts 29 Nov 2026
 
 - [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
 - [ ] Vocabulary in Use Upper-Intermediate — units 5–8
@@ -99,9 +99,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 3 — starts 05 Dec 2026
+### Week 3 — starts 06 Dec 2026
 
 - [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
 - [ ] Vocabulary in Use Upper-Intermediate — units 9–12
@@ -111,9 +111,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 4 — starts 12 Dec 2026 · 🧪 **Monthly test**
+### Week 4 — starts 13 Dec 2026 · 🧪 **Monthly test**
 
 - [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
 - [ ] Vocabulary in Use Upper-Intermediate — units 13–16
@@ -123,10 +123,10 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 - [ ] Monthly test: Cambridge online test + Claude [TEST] speaking & writing → log result below
 
-### Week 5 — starts 19 Dec 2026
+### Week 5 — starts 20 Dec 2026
 
 - [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
 - [ ] Vocabulary in Use Upper-Intermediate — units 17–20
@@ -136,9 +136,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 6 — starts 26 Dec 2026
+### Week 6 — starts 27 Dec 2026
 
 - [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
 - [ ] Vocabulary in Use Upper-Intermediate — units 21–24
@@ -148,9 +148,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 7 — starts 02 Jan 2027
+### Week 7 — starts 03 Jan 2027
 
 - [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
 - [ ] Vocabulary in Use Upper-Intermediate — units 25–28
@@ -160,9 +160,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 8 — starts 09 Jan 2027 · 🧪 **Monthly test**
+### Week 8 — starts 10 Jan 2027 · 🧪 **Monthly test**
 
 - [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
 - [ ] Vocabulary in Use Upper-Intermediate — units 29–32
@@ -172,13 +172,13 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 - [ ] Monthly test: Cambridge online test + Claude [TEST] speaking & writing → log result below
 
 
 ## Phase 2 — Expansion (B2 → B2+)
 
-### Week 9 — starts 16 Jan 2027
+### Week 9 — starts 17 Jan 2027
 
 - [ ] Advanced Grammar in Use — units 1–6
 - [ ] Vocabulary in Use Upper-Intermediate — units 33–36
@@ -188,9 +188,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 10 — starts 23 Jan 2027
+### Week 10 — starts 24 Jan 2027
 
 - [ ] Advanced Grammar in Use — units 7–12
 - [ ] Vocabulary in Use Upper-Intermediate — units 37–40
@@ -200,9 +200,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 11 — starts 30 Jan 2027
+### Week 11 — starts 31 Jan 2027
 
 - [ ] Advanced Grammar in Use — units 13–18
 - [ ] Vocabulary in Use Upper-Intermediate — units 41–44
@@ -212,9 +212,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 12 — starts 06 Feb 2027
+### Week 12 — starts 07 Feb 2027
 
 - [ ] Advanced Grammar in Use — units 19–24
 - [ ] Vocabulary in Use Upper-Intermediate — units 45–48
@@ -224,9 +224,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 13 — starts 13 Feb 2027 · 🧪 **Monthly test**
+### Week 13 — starts 14 Feb 2027 · 🧪 **Monthly test**
 
 - [ ] Advanced Grammar in Use — units 25–30
 - [ ] Vocabulary in Use Upper-Intermediate — units 49–52
@@ -236,10 +236,10 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 - [ ] Monthly test: Cambridge online test + Claude [TEST] speaking & writing → log result below
 
-### Week 14 — starts 20 Feb 2027
+### Week 14 — starts 21 Feb 2027
 
 - [ ] Advanced Grammar in Use — units 31–36
 - [ ] Vocabulary in Use Upper-Intermediate — units 53–56
@@ -249,9 +249,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 15 — starts 27 Feb 2027
+### Week 15 — starts 28 Feb 2027
 
 - [ ] Advanced Grammar in Use — units 37–42
 - [ ] Vocabulary in Use Upper-Intermediate — units 57–60
@@ -261,9 +261,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 16 — starts 06 Mar 2027
+### Week 16 — starts 07 Mar 2027
 
 - [ ] Advanced Grammar in Use — units 43–48
 - [ ] Vocabulary in Use Upper-Intermediate — units 61–64
@@ -273,9 +273,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 17 — starts 13 Mar 2027 · 🧪 **Monthly test**
+### Week 17 — starts 14 Mar 2027 · 🧪 **Monthly test**
 
 - [ ] Advanced Grammar in Use — units 49–54
 - [ ] Vocabulary in Use Upper-Intermediate — units 65–68
@@ -285,13 +285,13 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 - [ ] Monthly test: Cambridge online test + Claude [TEST] speaking & writing → log result below
 
 
 ## Phase 3 — Fluency (B2+ → C1)
 
-### Week 18 — starts 20 Mar 2027
+### Week 18 — starts 21 Mar 2027
 
 - [ ] Advanced Grammar in Use — units 55–60
 - [ ] Vocabulary in Use Upper-Intermediate — units 69–72
@@ -301,9 +301,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 19 — starts 27 Mar 2027
+### Week 19 — starts 28 Mar 2027
 
 - [ ] Advanced Grammar in Use — units 61–66
 - [ ] Vocabulary in Use Upper-Intermediate — units 73–76
@@ -313,9 +313,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 20 — starts 03 Apr 2027
+### Week 20 — starts 04 Apr 2027
 
 - [ ] Advanced Grammar in Use — units 67–72
 - [ ] Vocabulary in Use Upper-Intermediate — units 77–80
@@ -325,9 +325,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 21 — starts 10 Apr 2027
+### Week 21 — starts 11 Apr 2027
 
 - [ ] Advanced Grammar in Use — units 73–78
 - [ ] Vocabulary in Use Upper-Intermediate — units 81–84
@@ -337,9 +337,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 22 — starts 17 Apr 2027 · 🧪 **Monthly test**
+### Week 22 — starts 18 Apr 2027 · 🧪 **Monthly test**
 
 - [ ] Advanced Grammar in Use — units 79–84
 - [ ] Vocabulary in Use Upper-Intermediate — units 85–88
@@ -349,10 +349,10 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 - [ ] Monthly test: Cambridge online test + Claude [TEST] speaking & writing → log result below
 
-### Week 23 — starts 24 Apr 2027
+### Week 23 — starts 25 Apr 2027
 
 - [ ] Advanced Grammar in Use — units 85–90
 - [ ] Vocabulary in Use Upper-Intermediate — units 89–92
@@ -362,9 +362,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 24 — starts 01 May 2027
+### Week 24 — starts 02 May 2027
 
 - [ ] Advanced Grammar in Use — units 91–96
 - [ ] Vocabulary in Use Upper-Intermediate — units 93–96
@@ -374,9 +374,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 25 — starts 08 May 2027
+### Week 25 — starts 09 May 2027
 
 - [ ] Advanced Grammar in Use — units 97–100
 - [ ] Vocabulary in Use Upper-Intermediate — units 97–100
@@ -386,9 +386,9 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
-### Week 26 — starts 15 May 2027 · 🧪 **Monthly test**
+### Week 26 — starts 16 May 2027 · 🧪 **Monthly test**
 
 - [ ] Advanced Grammar in Use — review my weakest units
 - [ ] Vocabulary in Use — review all Anki decks
@@ -398,5 +398,5 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
 - [ ] Shadowing — 10 min, 5 days
-- [ ] Thursday: Claude [REVIEW] quiz + update My Mistakes list
+- [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 - [ ] Monthly test: Cambridge online test + Claude [TEST] speaking & writing → log result below
