@@ -58,7 +58,7 @@
 
 | Month | Date | Cambridge online test | Claude speaking band | Claude writing band | Anki words | Notes |
 |---|---|---|---|---|---|---|
-| 0 (start) | 21 Nov 2026 | | | | 0 | |
+| 0 (start) | 21 Nov 2026 | 16/25 (→ "prepare for B1 Preliminary") | | | 0 | |
 | 1 | 19 Dec 2026 | | | | | |
 | 2 | 16 Jan 2027 | | | | | |
 | 3 | 20 Feb 2027 | | | | | |
