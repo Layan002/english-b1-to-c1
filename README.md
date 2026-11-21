@@ -77,6 +77,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 ## Phase 1 — Foundations (B1 → B2)
 
 ### Week 1 — starts 21 Nov 2026
+📋 **Day-by-day details: [weeks/week-01.md](weeks/week-01.md)**
 
 - [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
 - [ ] Vocabulary in Use Upper-Intermediate — units 1–4
