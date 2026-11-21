@@ -10,9 +10,9 @@
 
 | Skill | Resource | Free? | When |
 |---|---|---|---|
-| Grammar | **English Grammar in Use** (Raymond Murphy, Intermediate) — do the diagnostic test, study only weak units | Book | Weeks 1–8 |
+| Grammar | **English Grammar in Use** (Raymond Murphy, Intermediate, 5th edition) — do the diagnostic test, study only weak units | Book | Weeks 1–8 |
 | Grammar | **Advanced Grammar in Use** (Martin Hewings, 100 units) | Book | Weeks 9–26 |
-| Vocabulary | **English Vocabulary in Use: Upper-Intermediate** (McCarthy & O'Dell, 101 units) | Book | Weeks 1–26 |
+| Vocabulary | **English Vocabulary in Use: Upper-Intermediate** (McCarthy & O'Dell, 2nd edition, 100 units) | Book | Weeks 1–26 |
 | Vocabulary | **Anki** (spaced repetition flashcards) — add every new word/expression with an example sentence | Free (Android/PC) | Daily |
 | Vocabulary | **Oxford 3000 / 5000** word lists — check which B2/C1 words you don't know | Free | Monthly check |
 | Listening | **BBC Learning English — 6 Minute English** (weekly episode, with transcript & worksheet) | Free | Phase 1 |
@@ -391,7 +391,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 ### Week 26 — starts 15 May 2027 · 🧪 **Monthly test**
 
 - [ ] Advanced Grammar in Use — review my weakest units
-- [ ] Vocabulary in Use — unit 101 + review all Anki decks
+- [ ] Vocabulary in Use — review all Anki decks
 - [ ] TED Talks / news podcasts without transcript — 3 episodes
 - [ ] Suits or a documentary — 3 episodes (no subtitles first)
 - [ ] 2 long articles + 1 technical article in my field

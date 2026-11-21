@@ -21,7 +21,7 @@
 |---|---|---|
 | 15 | **Set up** Anki + deck (see table above) | — |
 | 15 | **Cambridge level test** (25 questions) | https://www.cambridgeenglish.org/test-your-english/general-english/ → write your score in the README "Progress log" (Month 0) |
-| 30 | **Grammar diagnostic test** | *English Grammar in Use* → back of the book → **"Study Guide"**. Do all sections. Every wrong answer shows a unit number → write those units in a list = **your weak units** |
+| 30 | **Grammar diagnostic test** | *English Grammar in Use* → **"Study guide" on book page 326 (PDF page 338)**. Do all sections. Check answers in "Key to Study guide" (book page 372, PDF page 384). Every wrong answer shows a unit number → write those units in a list = **your weak units** |
 | 20 | **Listening:** 6 Minute English — *"Why has gold got so expensive?"* | YouTube/BBC search: **"6 Minute English Why has gold got so expensive"** · Listen once without transcript, then once with transcript |
 | 10 | **Anki:** add 5 new expressions from the episode | — |
 
