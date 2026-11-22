@@ -10,7 +10,7 @@
 
 | Skill | Resource | Free? | When |
 |---|---|---|---|
-| Grammar | **English Grammar in Use** (Raymond Murphy, Intermediate, 5th edition) — do the diagnostic test, study only weak units | Book | Weeks 1–8 |
+| Grammar | **English Grammar in Use** (Raymond Murphy, Intermediate, 5th edition) — only my weak units → [weeks/grammar-weak-units.md](weeks/grammar-weak-units.md) | Book | Weeks 1–12 |
 | Grammar | **Advanced Grammar in Use** (Martin Hewings, 100 units) | Book | Weeks 9–26 |
 | Vocabulary | **English Vocabulary in Use: Upper-Intermediate** (McCarthy & O'Dell, 2nd edition, 100 units) | Book | Weeks 1–26 |
 | Vocabulary | **Anki** (spaced repetition flashcards) — add every new word/expression with an example sentence | Free (Android/PC) | Daily |
@@ -63,7 +63,7 @@ Target accent: **Canadian / North American**.
 
 | Month | Date | Cambridge online test | Claude speaking band | Claude writing band | Anki words | Notes |
 |---|---|---|---|---|---|---|
-| 0 (start) | 22 Nov 2026 | 16/25 (→ "prepare for B1 Preliminary") | | | 0 | |
+| 0 (start) | 22 Nov 2026 | 16/25 (→ "prepare for B1 Preliminary") | | | 0 | Grammar Study guide: ~91/161 |
 | 1 | 20 Dec 2026 | | | | | |
 | 2 | 17 Jan 2027 | | | | | |
 | 3 | 21 Feb 2027 | | | | | |
@@ -84,7 +84,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 ### Week 1 — starts 22 Nov 2026
 📋 **Day-by-day details: [weeks/week-01.md](weeks/week-01.md)**
 
-- [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
+- [ ] Grammar in Use — units 6, 8, 10, 11, 12, 13, 14
 - [ ] Vocabulary in Use Upper-Intermediate — units 1–4
 - [ ] 6 Minute English (BBC) — 3 episodes + transcript
 - [ ] Friends — 3 episodes (English subtitles)
@@ -96,7 +96,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 
 ### Week 2 — starts 29 Nov 2026
 
-- [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
+- [ ] Grammar in Use — units 15, 16, 17, 2, 3, 19, 21
 - [ ] Vocabulary in Use Upper-Intermediate — units 5–8
 - [ ] 6 Minute English (BBC) — 3 episodes + transcript
 - [ ] Friends — 3 episodes (English subtitles)
@@ -108,7 +108,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 
 ### Week 3 — starts 06 Dec 2026
 
-- [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
+- [ ] Grammar in Use — units 27, 31, 33, 34, 35, 36, 39
 - [ ] Vocabulary in Use Upper-Intermediate — units 9–12
 - [ ] 6 Minute English (BBC) — 3 episodes + transcript
 - [ ] Friends — 3 episodes (English subtitles)
@@ -120,7 +120,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 
 ### Week 4 — starts 13 Dec 2026 · 🧪 **Monthly test**
 
-- [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
+- [ ] Grammar in Use — units 40, 41, 46, 47, 48, 51, 52
 - [ ] Vocabulary in Use Upper-Intermediate — units 13–16
 - [ ] 6 Minute English (BBC) — 3 episodes + transcript
 - [ ] Friends — 3 episodes (English subtitles)
@@ -133,7 +133,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 
 ### Week 5 — starts 20 Dec 2026
 
-- [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
+- [ ] Grammar in Use — units 53, 59, 60, 61, 62, 63, 66
 - [ ] Vocabulary in Use Upper-Intermediate — units 17–20
 - [ ] 6 Minute English (BBC) — 3 episodes + transcript
 - [ ] Friends — 3 episodes (English subtitles)
@@ -145,7 +145,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 
 ### Week 6 — starts 27 Dec 2026
 
-- [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
+- [ ] Grammar in Use — units 67, 70, 73, 74, 75, 76, 77
 - [ ] Vocabulary in Use Upper-Intermediate — units 21–24
 - [ ] 6 Minute English (BBC) — 3 episodes + transcript
 - [ ] Friends — 3 episodes (English subtitles)
@@ -157,7 +157,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 
 ### Week 7 — starts 03 Jan 2027
 
-- [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
+- [ ] Grammar in Use — units 78, 79, 87, 90, 91, 92, 94
 - [ ] Vocabulary in Use Upper-Intermediate — units 25–28
 - [ ] 6 Minute English (BBC) — 3 episodes + transcript
 - [ ] Friends — 3 episodes (English subtitles)
@@ -169,7 +169,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 
 ### Week 8 — starts 10 Jan 2027 · 🧪 **Monthly test**
 
-- [ ] Grammar in Use (Murphy) — weak units from diagnostic test (~6 units)
+- [ ] Grammar in Use — units 95, 96, 97, 103, 106, 109, 110
 - [ ] Vocabulary in Use Upper-Intermediate — units 29–32
 - [ ] 6 Minute English (BBC) — 3 episodes + transcript
 - [ ] Friends — 3 episodes (English subtitles)
@@ -186,6 +186,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 ### Week 9 — starts 17 Jan 2027
 
 - [ ] Advanced Grammar in Use — units 1–6
+- [ ] Grammar in Use (extra) — units 113, 114, 117, 118
 - [ ] Vocabulary in Use Upper-Intermediate — units 33–36
 - [ ] CBC Front Burner (with transcript) or TED Talks — 3 episodes
 - [ ] Kim's Convenience (Canadian) or Modern Family — 3 episodes (English subtitles)
@@ -198,6 +199,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 ### Week 10 — starts 24 Jan 2027
 
 - [ ] Advanced Grammar in Use — units 7–12
+- [ ] Grammar in Use (extra) — units 121, 124, 125, 126
 - [ ] Vocabulary in Use Upper-Intermediate — units 37–40
 - [ ] CBC Front Burner (with transcript) or TED Talks — 3 episodes
 - [ ] Kim's Convenience (Canadian) or Modern Family — 3 episodes (English subtitles)
@@ -210,6 +212,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 ### Week 11 — starts 31 Jan 2027
 
 - [ ] Advanced Grammar in Use — units 13–18
+- [ ] Grammar in Use (extra) — units 128, 129, 134, 136
 - [ ] Vocabulary in Use Upper-Intermediate — units 41–44
 - [ ] CBC Front Burner (with transcript) or TED Talks — 3 episodes
 - [ ] Kim's Convenience (Canadian) or Modern Family — 3 episodes (English subtitles)
@@ -222,6 +225,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 ### Week 12 — starts 07 Feb 2027
 
 - [ ] Advanced Grammar in Use — units 19–24
+- [ ] Grammar in Use (extra) — units 139, 140, 141, 145
 - [ ] Vocabulary in Use Upper-Intermediate — units 45–48
 - [ ] CBC Front Burner (with transcript) or TED Talks — 3 episodes
 - [ ] Kim's Convenience (Canadian) or Modern Family — 3 episodes (English subtitles)

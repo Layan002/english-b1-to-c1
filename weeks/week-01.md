@@ -22,14 +22,14 @@
 |---|---|---|
 | 15 | **Set up** Anki + deck (see table above) | — |
 | ✅ | **Cambridge level test** (25 questions) — DONE 21 Nov: 16/25 | https://www.cambridgeenglish.org/test-your-english/general-english/ → write your score in the README "Progress log" (Month 0) |
-| 30 | **Grammar diagnostic test** | *English Grammar in Use* → **"Study guide" on book page 326 (PDF page 338)**. Do all sections. Check answers in "Key to Study guide" (book page 372, PDF page 384). Every wrong answer shows a unit number → write those units in a list = **your weak units** |
+| ✅ | **Grammar diagnostic test** — DONE: weak units in [grammar-weak-units.md](grammar-weak-units.md) | *English Grammar in Use* → **"Study guide" on book page 326 (PDF page 338)**. Do all sections. Check answers in "Key to Study guide" (book page 372, PDF page 384). Every wrong answer shows a unit number → write those units in a list = **your weak units** |
 | 20 | **Listening:** 6 Minute English — *"Why has gold got so expensive?"* | YouTube/BBC search: **"6 Minute English Why has gold got so expensive"** · Listen once without transcript, then once with transcript |
 | 10 | **Anki:** add 5 new expressions from the episode | — |
 
 ## 📅 Day 2 — Monday 23 Nov · Grammar + Friends
 | Min | Task | How |
 |---|---|---|
-| 25 | **Grammar:** weak unit #1 | Read the left page, do the exercises on the right page, check answers in the Key |
+| 25 | **Grammar:** units **6 + 8** | Read the left page, do the exercises on the right page, check answers in the Key |
 | 20 | **Vocabulary in Use** — Unit 1 | Read + do all exercises. Put 5 new words in Anki |
 | 25 | **Watch:** Friends S1 E1 *"The One Where Monica Gets a Roommate"* | English subtitles ON. Pause and write 5 expressions you like |
 | 10 | **Shadowing:** 5 lines from the episode | Play one line → pause → repeat it out loud, same speed and feeling. Do each line 3 times. Help: YouTube search **"how to do shadowing English"** |
@@ -38,7 +38,7 @@
 ## 📅 Day 3 — Tuesday 24 Nov · Writing + news
 | Min | Task | How |
 |---|---|---|
-| 25 | **Grammar:** weak unit #2 | Same as Day 2 |
+| 25 | **Grammar:** units **10 + 11** | Same as Day 2 |
 | 20 | **Listening:** 6 Minute English — *"What should you eat for a better night's sleep?"* | Search: **"6 Minute English better night's sleep"** · Without transcript → with transcript |
 | 25 | **Write & Improve** — task 1 | https://writeandimprove.com → Workbooks → **Intermediate** → choose any task → write → read feedback → fix → submit again (at least 2 times) |
 | 10 | **Reading:** Learning English from the News — *"AI exam cheat confesses"* | https://www.bbc.co.uk/learningenglish/english/features/learning-english-from-the-news_2026/261118 · Read the headlines + vocabulary |
@@ -56,7 +56,7 @@
 ## 📅 Day 5 — Thursday 26 Nov · Grammar + role-play
 | Min | Task | How |
 |---|---|---|
-| 25 | **Grammar:** weak units #3 and #4 | Same as Day 2 (faster: ~12 min each) |
+| 25 | **Grammar:** units **12 + 13** | Same as Day 2 (~12 min each) |
 | 20 | **Listening:** 6 Minute English — *"Is aircon the answer to a heating world?"* | Search: **"6 Minute English Is aircon the answer"** |
 | 10 | **Shadowing:** 5 lines from Friends S1E2 | 🇨🇦 Don't shadow the BBC — only North American speakers |
 | 25 | **Claude [ROLEPLAY]** + **Write & Improve** task 2 | Write: `[ROLEPLAY] You are a co-op training interviewer at an engineering company. Interview me.` → 15 min. Then 10 min on Write & Improve task 2 |
@@ -65,7 +65,7 @@
 ## 📅 Day 6 — Friday 27 Nov · Finish + weekly review
 | Min | Task | How |
 |---|---|---|
-| 20 | **Grammar:** weak units #5 and #6 | — |
+| 20 | **Grammar:** unit **14** + review your mistakes from units 6–13 | — |
 | 20 | **Vocabulary in Use** — Units 3 and 4 | Read + exercises (quick) |
 | 25 | **Watch:** Friends S1 E3 *"The One with the Thumb"* | Try the first 5 minutes **without** subtitles, then turn them on |
 | 15 | **Claude [REVIEW]** | Write: `[REVIEW] week 1 — quiz me on all the expressions from this week` · Then write your mistakes in "My Mistakes" |
