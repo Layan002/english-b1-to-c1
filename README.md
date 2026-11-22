@@ -16,9 +16,9 @@
 | Vocabulary | **Anki** (spaced repetition flashcards) — add every new word/expression with an example sentence | Free (Android/PC) | Daily |
 | Vocabulary | **Oxford 3000 / 5000** word lists — check which B2/C1 words you don't know | Free | Monthly check |
 | Listening | **BBC Learning English — 6 Minute English** (weekly episode, with transcript & worksheet) | Free | Phase 1 |
-| Listening | **Luke's English Podcast**, **TED Talks** (with English subtitles) | Free | Phase 2–3 |
-| Watching | Friends → Modern Family / The Office → Suits / documentaries | Netflix etc. | Daily |
-| Pronunciation | **Rachel's English** (YouTube) + **YouGlish** (hear any word in real videos) | Free | Phase 1–2 |
+| Listening | **CBC Front Burner** (Canada's daily news podcast, transcripts: cbc.ca/radio/frontburner/transcripts) + **TED Talks** | Free | Phase 2–3 |
+| Watching | Friends → **Kim's Convenience** (Canadian) / Modern Family → **Schitt's Creek** (Canadian) / Suits | Netflix etc. | Daily |
+| Pronunciation | **Rachel's English** (YouTube, North American accent) + **YouGlish** → choose **Canadian** or **US** | Free | Phase 1–3 |
 | Reading | BBC Learning English articles → **BBC News**, **The Guardian** → technical articles in power electronics | Free | Daily |
 | Writing | **Write & Improve** by Cambridge (instant feedback, tasks at all levels) | Free | 2×/week |
 | Writing | **LanguageTool** (grammar checker) | Free | When writing |
@@ -28,13 +28,18 @@
 
 ---
 
+## 🇨🇦 Accent rule
+Target accent: **Canadian / North American**.
+- **Shadow only North American speakers:** Friends, Kim's Convenience, Schitt's Creek, Rachel's English, CBC.
+- **BBC 6 Minute English = listening + vocabulary only** (never shadow it). Understanding British English is still useful (IELTS, people in Canada).
+
 ## ⏰ Daily routine (90 min)
 
 | Min | Activity |
 |---|---|
 | 20 | Grammar **or** Vocabulary in Use (alternate days) |
 | 20 | Listening / watching (podcast or 1 episode part) — write down 5 new expressions |
-| 10 | Shadowing — repeat 5–10 lines out loud, copy the rhythm |
+| 10 | Shadowing — repeat 5–10 lines out loud, copy the rhythm (**North American speakers only**) |
 | 20 | Speaking with Claude **or** writing (Write & Improve) |
 | 10 | Reading (1 article) |
 | 10 | Anki review |
@@ -86,7 +91,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] 1 graded reader chapter or 2 BBC Learning English articles
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 2 — starts 29 Nov 2026
@@ -98,7 +103,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] 1 graded reader chapter or 2 BBC Learning English articles
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 3 — starts 06 Dec 2026
@@ -110,7 +115,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] 1 graded reader chapter or 2 BBC Learning English articles
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 4 — starts 13 Dec 2026 · 🧪 **Monthly test**
@@ -122,7 +127,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] 1 graded reader chapter or 2 BBC Learning English articles
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 - [ ] Monthly test: Cambridge online test + Claude [TEST] speaking & writing → log result below
 
@@ -135,7 +140,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] 1 graded reader chapter or 2 BBC Learning English articles
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 6 — starts 27 Dec 2026
@@ -147,7 +152,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] 1 graded reader chapter or 2 BBC Learning English articles
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 7 — starts 03 Jan 2027
@@ -159,7 +164,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] 1 graded reader chapter or 2 BBC Learning English articles
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 8 — starts 10 Jan 2027 · 🧪 **Monthly test**
@@ -171,7 +176,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 - [ ] 1 graded reader chapter or 2 BBC Learning English articles
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 - [ ] Monthly test: Cambridge online test + Claude [TEST] speaking & writing → log result below
 
@@ -182,60 +187,60 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 
 - [ ] Advanced Grammar in Use — units 1–6
 - [ ] Vocabulary in Use Upper-Intermediate — units 33–36
-- [ ] Luke's English Podcast or TED Talks — 3 episodes
-- [ ] Modern Family or The Office — 3 episodes (English subtitles)
+- [ ] CBC Front Burner (with transcript) or TED Talks — 3 episodes
+- [ ] Kim's Convenience (Canadian) or Modern Family — 3 episodes (English subtitles)
 - [ ] 2 news articles (BBC News / The Guardian)
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 10 — starts 24 Jan 2027
 
 - [ ] Advanced Grammar in Use — units 7–12
 - [ ] Vocabulary in Use Upper-Intermediate — units 37–40
-- [ ] Luke's English Podcast or TED Talks — 3 episodes
-- [ ] Modern Family or The Office — 3 episodes (English subtitles)
+- [ ] CBC Front Burner (with transcript) or TED Talks — 3 episodes
+- [ ] Kim's Convenience (Canadian) or Modern Family — 3 episodes (English subtitles)
 - [ ] 2 news articles (BBC News / The Guardian)
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 11 — starts 31 Jan 2027
 
 - [ ] Advanced Grammar in Use — units 13–18
 - [ ] Vocabulary in Use Upper-Intermediate — units 41–44
-- [ ] Luke's English Podcast or TED Talks — 3 episodes
-- [ ] Modern Family or The Office — 3 episodes (English subtitles)
+- [ ] CBC Front Burner (with transcript) or TED Talks — 3 episodes
+- [ ] Kim's Convenience (Canadian) or Modern Family — 3 episodes (English subtitles)
 - [ ] 2 news articles (BBC News / The Guardian)
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 12 — starts 07 Feb 2027
 
 - [ ] Advanced Grammar in Use — units 19–24
 - [ ] Vocabulary in Use Upper-Intermediate — units 45–48
-- [ ] Luke's English Podcast or TED Talks — 3 episodes
-- [ ] Modern Family or The Office — 3 episodes (English subtitles)
+- [ ] CBC Front Burner (with transcript) or TED Talks — 3 episodes
+- [ ] Kim's Convenience (Canadian) or Modern Family — 3 episodes (English subtitles)
 - [ ] 2 news articles (BBC News / The Guardian)
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 13 — starts 14 Feb 2027 · 🧪 **Monthly test**
 
 - [ ] Advanced Grammar in Use — units 25–30
 - [ ] Vocabulary in Use Upper-Intermediate — units 49–52
-- [ ] Luke's English Podcast or TED Talks — 3 episodes
-- [ ] Modern Family or The Office — 3 episodes (English subtitles)
+- [ ] CBC Front Burner (with transcript) or TED Talks — 3 episodes
+- [ ] Kim's Convenience (Canadian) or Modern Family — 3 episodes (English subtitles)
 - [ ] 2 news articles (BBC News / The Guardian)
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 - [ ] Monthly test: Cambridge online test + Claude [TEST] speaking & writing → log result below
 
@@ -243,48 +248,48 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 
 - [ ] Advanced Grammar in Use — units 31–36
 - [ ] Vocabulary in Use Upper-Intermediate — units 53–56
-- [ ] Luke's English Podcast or TED Talks — 3 episodes
-- [ ] Modern Family or The Office — 3 episodes (English subtitles)
+- [ ] CBC Front Burner (with transcript) or TED Talks — 3 episodes
+- [ ] Kim's Convenience (Canadian) or Modern Family — 3 episodes (English subtitles)
 - [ ] 2 news articles (BBC News / The Guardian)
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 15 — starts 28 Feb 2027
 
 - [ ] Advanced Grammar in Use — units 37–42
 - [ ] Vocabulary in Use Upper-Intermediate — units 57–60
-- [ ] Luke's English Podcast or TED Talks — 3 episodes
-- [ ] Modern Family or The Office — 3 episodes (English subtitles)
+- [ ] CBC Front Burner (with transcript) or TED Talks — 3 episodes
+- [ ] Kim's Convenience (Canadian) or Modern Family — 3 episodes (English subtitles)
 - [ ] 2 news articles (BBC News / The Guardian)
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 16 — starts 07 Mar 2027
 
 - [ ] Advanced Grammar in Use — units 43–48
 - [ ] Vocabulary in Use Upper-Intermediate — units 61–64
-- [ ] Luke's English Podcast or TED Talks — 3 episodes
-- [ ] Modern Family or The Office — 3 episodes (English subtitles)
+- [ ] CBC Front Burner (with transcript) or TED Talks — 3 episodes
+- [ ] Kim's Convenience (Canadian) or Modern Family — 3 episodes (English subtitles)
 - [ ] 2 news articles (BBC News / The Guardian)
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 17 — starts 14 Mar 2027 · 🧪 **Monthly test**
 
 - [ ] Advanced Grammar in Use — units 49–54
 - [ ] Vocabulary in Use Upper-Intermediate — units 65–68
-- [ ] Luke's English Podcast or TED Talks — 3 episodes
-- [ ] Modern Family or The Office — 3 episodes (English subtitles)
+- [ ] CBC Front Burner (with transcript) or TED Talks — 3 episodes
+- [ ] Kim's Convenience (Canadian) or Modern Family — 3 episodes (English subtitles)
 - [ ] 2 news articles (BBC News / The Guardian)
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 - [ ] Monthly test: Cambridge online test + Claude [TEST] speaking & writing → log result below
 
@@ -295,60 +300,60 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 
 - [ ] Advanced Grammar in Use — units 55–60
 - [ ] Vocabulary in Use Upper-Intermediate — units 69–72
-- [ ] TED Talks / news podcasts without transcript — 3 episodes
-- [ ] Suits or a documentary — 3 episodes (no subtitles first)
+- [ ] CBC Front Burner / TED Talks without transcript — 3 episodes
+- [ ] Schitt's Creek (Canadian) or Suits — 3 episodes (no subtitles first)
 - [ ] 2 long articles + 1 technical article in my field
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 19 — starts 28 Mar 2027
 
 - [ ] Advanced Grammar in Use — units 61–66
 - [ ] Vocabulary in Use Upper-Intermediate — units 73–76
-- [ ] TED Talks / news podcasts without transcript — 3 episodes
-- [ ] Suits or a documentary — 3 episodes (no subtitles first)
+- [ ] CBC Front Burner / TED Talks without transcript — 3 episodes
+- [ ] Schitt's Creek (Canadian) or Suits — 3 episodes (no subtitles first)
 - [ ] 2 long articles + 1 technical article in my field
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 20 — starts 04 Apr 2027
 
 - [ ] Advanced Grammar in Use — units 67–72
 - [ ] Vocabulary in Use Upper-Intermediate — units 77–80
-- [ ] TED Talks / news podcasts without transcript — 3 episodes
-- [ ] Suits or a documentary — 3 episodes (no subtitles first)
+- [ ] CBC Front Burner / TED Talks without transcript — 3 episodes
+- [ ] Schitt's Creek (Canadian) or Suits — 3 episodes (no subtitles first)
 - [ ] 2 long articles + 1 technical article in my field
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 21 — starts 11 Apr 2027
 
 - [ ] Advanced Grammar in Use — units 73–78
 - [ ] Vocabulary in Use Upper-Intermediate — units 81–84
-- [ ] TED Talks / news podcasts without transcript — 3 episodes
-- [ ] Suits or a documentary — 3 episodes (no subtitles first)
+- [ ] CBC Front Burner / TED Talks without transcript — 3 episodes
+- [ ] Schitt's Creek (Canadian) or Suits — 3 episodes (no subtitles first)
 - [ ] 2 long articles + 1 technical article in my field
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 22 — starts 18 Apr 2027 · 🧪 **Monthly test**
 
 - [ ] Advanced Grammar in Use — units 79–84
 - [ ] Vocabulary in Use Upper-Intermediate — units 85–88
-- [ ] TED Talks / news podcasts without transcript — 3 episodes
-- [ ] Suits or a documentary — 3 episodes (no subtitles first)
+- [ ] CBC Front Burner / TED Talks without transcript — 3 episodes
+- [ ] Schitt's Creek (Canadian) or Suits — 3 episodes (no subtitles first)
 - [ ] 2 long articles + 1 technical article in my field
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 - [ ] Monthly test: Cambridge online test + Claude [TEST] speaking & writing → log result below
 
@@ -356,47 +361,47 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 
 - [ ] Advanced Grammar in Use — units 85–90
 - [ ] Vocabulary in Use Upper-Intermediate — units 89–92
-- [ ] TED Talks / news podcasts without transcript — 3 episodes
-- [ ] Suits or a documentary — 3 episodes (no subtitles first)
+- [ ] CBC Front Burner / TED Talks without transcript — 3 episodes
+- [ ] Schitt's Creek (Canadian) or Suits — 3 episodes (no subtitles first)
 - [ ] 2 long articles + 1 technical article in my field
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 24 — starts 02 May 2027
 
 - [ ] Advanced Grammar in Use — units 91–96
 - [ ] Vocabulary in Use Upper-Intermediate — units 93–96
-- [ ] TED Talks / news podcasts without transcript — 3 episodes
-- [ ] Suits or a documentary — 3 episodes (no subtitles first)
+- [ ] CBC Front Burner / TED Talks without transcript — 3 episodes
+- [ ] Schitt's Creek (Canadian) or Suits — 3 episodes (no subtitles first)
 - [ ] 2 long articles + 1 technical article in my field
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 25 — starts 09 May 2027
 
 - [ ] Advanced Grammar in Use — units 97–100
 - [ ] Vocabulary in Use Upper-Intermediate — units 97–100
-- [ ] TED Talks / news podcasts without transcript — 3 episodes
-- [ ] Suits or a documentary — 3 episodes (no subtitles first)
+- [ ] CBC Front Burner / TED Talks without transcript — 3 episodes
+- [ ] Schitt's Creek (Canadian) or Suits — 3 episodes (no subtitles first)
 - [ ] 2 long articles + 1 technical article in my field
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 
 ### Week 26 — starts 16 May 2027 · 🧪 **Monthly test**
 
 - [ ] Advanced Grammar in Use — review my weakest units
 - [ ] Vocabulary in Use — review all Anki decks
-- [ ] TED Talks / news podcasts without transcript — 3 episodes
-- [ ] Suits or a documentary — 3 episodes (no subtitles first)
+- [ ] CBC Front Burner / TED Talks without transcript — 3 episodes
+- [ ] Schitt's Creek (Canadian) or Suits — 3 episodes (no subtitles first)
 - [ ] 2 long articles + 1 technical article in my field
 - [ ] Write & Improve — 2 tasks
 - [ ] Claude [TALK] or [ROLEPLAY] — 4 sessions
-- [ ] Shadowing — 10 min, 5 days
+- [ ] Shadowing (North American only) — 10 min, 5 days
 - [ ] Friday: Claude [REVIEW] quiz + update My Mistakes list
 - [ ] Monthly test: Cambridge online test + Claude [TEST] speaking & writing → log result below

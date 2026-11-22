@@ -1,6 +1,7 @@
 # Week 1 — 22 → 27 Nov 2026 (Phase 1: Foundations)
 
 **Session time:** 8:00–9:30 PM · **Saturday 28 Nov:** rest
+**Accent rule:** shadow only North American speakers (Friends, Rachel's English). BBC = listening + vocabulary only.
 **Goal this week:** set up your tools, find your weak grammar points, and build the daily habit.
 
 ---
@@ -57,7 +58,7 @@
 |---|---|---|
 | 25 | **Grammar:** weak units #3 and #4 | Same as Day 2 (faster: ~12 min each) |
 | 20 | **Listening:** 6 Minute English — *"Is aircon the answer to a heating world?"* | Search: **"6 Minute English Is aircon the answer"** |
-| 10 | **Shadowing:** 5 lines from the transcript | — |
+| 10 | **Shadowing:** 5 lines from Friends S1E2 | 🇨🇦 Don't shadow the BBC — only North American speakers |
 | 25 | **Claude [ROLEPLAY]** + **Write & Improve** task 2 | Write: `[ROLEPLAY] You are a co-op training interviewer at an engineering company. Interview me.` → 15 min. Then 10 min on Write & Improve task 2 |
 | 10 | **Anki** | — |
 
