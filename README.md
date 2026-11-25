@@ -45,7 +45,7 @@ Target accent: **Canadian / North American**.
 | 10 | Anki review |
 
 **Free time:** extra episodes, YouTube in English, change phone language to English.
-**Saturday:** rest — or just watch something fun.
+**Saturday:** catch-up day — do only the tasks you missed this week (max 60 min), then rest. Nothing missed? Just rest or watch something fun.
 
 ---
 

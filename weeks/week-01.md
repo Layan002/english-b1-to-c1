@@ -1,6 +1,6 @@
 # Week 1 — 22 → 27 Nov 2026 (Phase 1: Foundations)
 
-**Session time:** 8:00–9:30 PM · **Saturday 28 Nov:** rest
+**Session time:** 8:00–9:30 PM · **Saturday 28 Nov:** catch-up (60 min), then rest
 **Accent rule:** shadow only North American speakers (Friends, Rachel's English). BBC = listening + vocabulary only.
 **Goal this week:** set up your tools, find your weak grammar points, and build the daily habit.
 
@@ -38,11 +38,11 @@
 ## 📅 Day 3 — Tuesday 24 Nov · Writing + news
 | Min | Task | How |
 |---|---|---|
-| 25 | **Grammar:** units **10 + 11** | Same as Day 2 |
-| 20 | **Listening:** 6 Minute English — *"What should you eat for a better night's sleep?"* | Search: **"6 Minute English better night's sleep"** · Without transcript → with transcript |
-| 25 | **Write & Improve** — task 1 | https://writeandimprove.com → Workbooks → **Intermediate** → choose any task → write → read feedback → fix → submit again (at least 2 times) |
-| 10 | **Reading:** Learning English from the News — *"AI exam cheat confesses"* | https://www.bbc.co.uk/learningenglish/english/features/learning-english-from-the-news_2026/261118 · Read the headlines + vocabulary |
-| 10 | **Anki** | Add 5 words from today + review |
+| ➡️ | **Grammar:** units **10 + 11** — not done → moved to **Day 5 (Thu)** | Same as Day 2 |
+| ✅ | **Listening:** 6 Minute English — *"What should you eat for a better night's sleep?"* | Search: **"6 Minute English better night's sleep"** · Without transcript → with transcript |
+| ➡️ | **Write & Improve** — task 1 — not done → moved to **Sat 28 (catch-up)** | https://writeandimprove.com → Workbooks → **Intermediate** → choose any task → write → read feedback → fix → submit again (at least 2 times) |
+| ➡️ | **Reading:** Learning English from the News — *"AI exam cheat confesses"* — not done → moved to **Sat 28 (catch-up)** | https://www.bbc.co.uk/learningenglish/english/features/learning-english-from-the-news_2026/261118 · Read the headlines + vocabulary |
+| ✅ | **Anki** | Add 5 words from today + review |
 
 ## 📅 Day 4 — Wednesday 25 Nov · Speaking with Claude
 | Min | Task | How |
@@ -56,7 +56,7 @@
 ## 📅 Day 5 — Thursday 26 Nov · Grammar + role-play
 | Min | Task | How |
 |---|---|---|
-| 25 | **Grammar:** units **12 + 13** | Same as Day 2 (~12 min each) |
+| 25 | **Grammar:** units **10 + 11** *(moved from Day 3 — units 12 + 13 build on them)* | Same as Day 2 (~12 min each) |
 | 20 | **Listening:** 6 Minute English — *"Is aircon the answer to a heating world?"* | Search: **"6 Minute English Is aircon the answer"** |
 | 10 | **Shadowing:** 5 lines from Friends S1E2 | 🇨🇦 Don't shadow the BBC — only North American speakers |
 | 25 | **Claude [ROLEPLAY]** + **Write & Improve** task 2 | Write: `[ROLEPLAY] You are a co-op training interviewer at an engineering company. Interview me.` → 15 min. Then 10 min on Write & Improve task 2 |
@@ -65,14 +65,22 @@
 ## 📅 Day 6 — Friday 27 Nov · Finish + weekly review
 | Min | Task | How |
 |---|---|---|
-| 20 | **Grammar:** unit **14** + review your mistakes from units 6–13 | — |
+| 25 | **Grammar:** units **12 + 13** *(moved from Day 5)* | Same as Day 2 (~12 min each) |
 | 20 | **Vocabulary in Use** — Units 3 and 4 | Read + exercises (quick) |
 | 25 | **Watch:** Friends S1 E3 *"The One with the Thumb"* | Try the first 5 minutes **without** subtitles, then turn them on |
-| 15 | **Claude [REVIEW]** | Write: `[REVIEW] week 1 — quiz me on all the expressions from this week` · Then write your mistakes in "My Mistakes" |
-| 10 | **Update GitHub** | Tick the Week 1 boxes in README.md ✅ |
+| 15 | **Claude [REVIEW]** | Write: `[REVIEW] week 1 — quiz me on all the expressions from this week and my grammar mistakes from units 6–13` · Then write your mistakes in "My Mistakes" |
+| 5 | **Update GitHub** | Tick the Week 1 boxes in README.md ✅ |
 
-## 😌 Saturday 28 Nov — Rest
-Optional: watch anything you like in English, just for fun.
+## 🔁 Saturday 28 Nov — Catch-up (60 min), then rest
+Saturday is the **buffer day**: only do the tasks you missed during the week. Nothing missed? Rest.
+| Min | Task | How |
+|---|---|---|
+| 15 | **Grammar:** unit **14** *(moved from Day 6)* | Same as Day 2 |
+| 25 | **Write & Improve** — task 1 *(moved from Day 3)* | https://writeandimprove.com → Workbooks → **Intermediate** → write → read feedback → fix → submit again (at least 2 times) |
+| 10 | **Reading:** *"AI exam cheat confesses"* *(moved from Day 3)* | https://www.bbc.co.uk/learningenglish/english/features/learning-english-from-the-news_2026/261118 |
+| 10 | **Anki** review | — |
+
+After that: rest, or watch anything you like in English, just for fun.
 
 ---
 
