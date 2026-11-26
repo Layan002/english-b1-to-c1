@@ -77,6 +77,8 @@ Target accent: **Canadian / North American**.
 ---
 
 # ✅ Weekly checklist
+> ⚠️ **Grammar rule (26 Nov):** one Grammar in Use unit takes me ~45 min → **max 1 unit per day**. Leftover units move to the next week.
+
 Tick each box (`[x]`) when done. Missed something? Move it to next week — don't stop.
 
 ## Phase 1 — Foundations (B1 → B2)
@@ -84,7 +86,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 ### Week 1 — starts 22 Nov 2026
 📋 **Day-by-day details: [weeks/week-01.md](weeks/week-01.md)**
 
-- [ ] Grammar in Use — units 6, 8, 10, 11, 12, 13, 14
+- [ ] Grammar in Use — units 6, 8, 10, 11 *(12, 13, 14 → Week 2)*
 - [ ] Vocabulary in Use Upper-Intermediate — units 1–4
 - [ ] 6 Minute English (BBC) — 3 episodes + transcript
 - [ ] Friends — 3 episodes (English subtitles)
@@ -96,7 +98,7 @@ Tick each box (`[x]`) when done. Missed something? Move it to next week — don'
 
 ### Week 2 — starts 29 Nov 2026
 
-- [ ] Grammar in Use — units 15, 16, 17, 2, 3, 19, 21
+- [ ] Grammar in Use — units 12, 13, 14 *(from Week 1)*, 15, 16, 17 — **1 unit per day** *(2, 3, 19, 21 → Week 3)*
 - [ ] Vocabulary in Use Upper-Intermediate — units 5–8
 - [ ] 6 Minute English (BBC) — 3 episodes + transcript
 - [ ] Friends — 3 episodes (English subtitles)

@@ -4,6 +4,8 @@
 **Accent rule:** shadow only North American speakers (Friends, Rachel's English). BBC = listening + vocabulary only.
 **Goal this week:** set up your tools, find your weak grammar points, and build the daily habit.
 
+> ⚠️ **Update 26 Nov:** one grammar unit (read + exercises + check) really takes me **~45 min**, not 12. New rule: **max 1 grammar unit per day.** Units 12, 13, 14 move to Week 2.
+
 ---
 
 ## 🛠️ Before you start (one time only)
@@ -56,29 +58,35 @@
 ## 📅 Day 5 — Thursday 26 Nov · Grammar + role-play
 | Min | Task | How |
 |---|---|---|
-| 25 | **Grammar:** units **10 + 11** *(moved from Day 3 — units 12 + 13 build on them)* | Same as Day 2 (~12 min each) |
+| ✅ 45 | **Grammar:** unit **10** — DONE (took ~45 min) | Mistakes: 10.2 #3 (*caught*), #4 · 10.3 #5 (*gone*), #6 (*have* = state verb), #9, #12 |
+| ➡️ | **Grammar:** unit **11** → moved to **Day 6 (Fri)** | One unit per day only |
 | 20 | **Listening:** 6 Minute English — *"Is aircon the answer to a heating world?"* | Search: **"6 Minute English Is aircon the answer"** |
 | 10 | **Shadowing:** 5 lines from Friends S1E2 | 🇨🇦 Don't shadow the BBC — only North American speakers |
-| 25 | **Claude [ROLEPLAY]** + **Write & Improve** task 2 | Write: `[ROLEPLAY] You are a co-op training interviewer at an engineering company. Interview me.` → 15 min. Then 10 min on Write & Improve task 2 |
-| 10 | **Anki** | — |
+| 15 | **Claude [ROLEPLAY]** | Write: `[ROLEPLAY] You are a co-op training interviewer at an engineering company. Interview me.` |
+| ➡️ | **Write & Improve** task 2 → moved to **Week 2** | — |
+| 5 | **Anki** (if you have time) | — |
 
-## 📅 Day 6 — Friday 27 Nov · Finish + weekly review
+## 📅 Day 6 — Friday 27 Nov · Grammar + weekly review
 | Min | Task | How |
 |---|---|---|
-| 25 | **Grammar:** units **12 + 13** *(moved from Day 5)* | Same as Day 2 (~12 min each) |
-| 20 | **Vocabulary in Use** — Units 3 and 4 | Read + exercises (quick) |
-| 25 | **Watch:** Friends S1 E3 *"The One with the Thumb"* | Try the first 5 minutes **without** subtitles, then turn them on |
-| 15 | **Claude [REVIEW]** | Write: `[REVIEW] week 1 — quiz me on all the expressions from this week and my grammar mistakes from units 6–13` · Then write your mistakes in "My Mistakes" |
+| 45 | **Grammar:** unit **11** *(moved from Day 5)* — only this one unit | Same as Day 2 |
+| 20 | **Vocabulary in Use** — Unit 3 | Read + exercises. Unit 4 → Week 2 |
+| 15 | **Claude [REVIEW]** | Write: `[REVIEW] week 1 — quiz me on all the expressions from this week and my grammar mistakes from units 6–11` · Then write your mistakes in "My Mistakes" |
 | 5 | **Update GitHub** | Tick the Week 1 boxes in README.md ✅ |
+| 5 | **Anki** | — |
 
-## 🔁 Saturday 28 Nov — Catch-up (60 min), then rest
-Saturday is the **buffer day**: only do the tasks you missed during the week. Nothing missed? Rest.
+*Friends S1E3 → moved to Saturday (for fun).*
+
+## 🔁 Saturday 28 Nov — Catch-up (45 min), then rest
+Saturday is the **buffer day**: only do the tasks you missed during the week. **No grammar on Saturday.**
 | Min | Task | How |
 |---|---|---|
-| 15 | **Grammar:** unit **14** *(moved from Day 6)* | Same as Day 2 |
 | 25 | **Write & Improve** — task 1 *(moved from Day 3)* | https://writeandimprove.com → Workbooks → **Intermediate** → write → read feedback → fix → submit again (at least 2 times) |
 | 10 | **Reading:** *"AI exam cheat confesses"* *(moved from Day 3)* | https://www.bbc.co.uk/learningenglish/english/features/learning-english-from-the-news_2026/261118 |
 | 10 | **Anki** review | — |
+| 🎬 | **Optional, for fun:** Friends S1 E3 *"The One with the Thumb"* *(moved from Day 6)* | First 5 minutes **without** subtitles, then turn them on |
+
+➡️ **Moved to Week 2:** Grammar units **12, 13, 14** (one per day: Sun, Mon, Tue) · Vocabulary in Use unit 4 · Write & Improve task 2
 
 After that: rest, or watch anything you like in English, just for fun.
 
@@ -87,7 +95,8 @@ After that: rest, or watch anything you like in English, just for fun.
 ### ✅ End of week checklist
 - [ ] Anki installed, ~40+ cards
 - [x] Cambridge test score saved (Month 0) — 16/25
-- [ ] List of my weak grammar units
+- [x] List of my weak grammar units
+- [ ] Grammar units 6, 8, 10, 11 (12–14 → Week 2)
 - [ ] 3 × 6 Minute English
 - [ ] 3 × Friends episodes
 - [ ] 2 × Write & Improve tasks

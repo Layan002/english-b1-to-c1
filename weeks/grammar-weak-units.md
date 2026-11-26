@@ -22,7 +22,7 @@
 ## 🟡 Correct but not sure → quick review (read the left page only)
 7, 9, 24, 28, 29, 38, 43, 44, 54, 57, 58, 80, 107, 116, 119, 142, 143
 
-## How to study one unit (~12 min)
+## How to study one unit (~45 min — max 1 unit per day)
 1. Read the left page (explanation).
 2. Do the exercises on the right page in a notebook.
 3. Check with the Key at the back (PDF page ~350+).
