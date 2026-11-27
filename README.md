@@ -72,7 +72,21 @@ Target accent: **Canadian / North American**.
 | 6 | 22 May 2027 | | | | | |
 
 ## ❌ My repeated mistakes
-- 
+
+### Week 1 (22–27 Nov 2026)
+| ❌ My answer | ✅ Correct | Rule |
+|---|---|---|
+| this's happend | it's happened | the 2nd time → present perfect; spelling -ed |
+| catched | caught | irregular: catch–caught–caught |
+| has she went | has she gone | go–went–gone |
+| I don't know her very long | I haven't known her very long | duration → present perfect |
+| She's been there on a trip | She's there on a trip | no for/since/how long → present |
+| Have you eaten … when you were a child? | Did you eat … | finished time → past simple |
+| I spent 75 min to solve | I spent 75 min solving | spend time + -ing |
+| the most harder | the hardest | short adjective → -est |
+| a feedback | feedback / some feedback | uncountable |
+| make a forward shift | push the schedule back | natural phrase |
+| I haven't gone to the cinema | I haven't been to the cinema | been to = visited |
 
 ---
 
